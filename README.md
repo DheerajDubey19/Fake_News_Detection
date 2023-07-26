@@ -1,0 +1,2 @@
+# Fake_News_Detection
+Fake news detection refers to the process of identifying and categorizing news articles that contain false or misleading information. With the increasing amount of fake news circulating online, there is a growing need to develop automated methods for fake news detection.
